@@ -65,7 +65,7 @@ The spec explicitly excludes auth. In production, the admin dashboard would be p
 
 ## What I'd Add With More Time
 
-- **Persistence** — SQLite via Prisma would be a 30-minute lift and give real durability across restarts
+- **Persistence** — SQLite via Prisma would be a lift and give real durability across restarts
 - **Email notifications** — Transactional email (Resend or Postmark) when a booking is created or confirmed
 - **Auth** — NextAuth for physician login; optional patient accounts to see booking history
 - **Optimistic UI** — Status updates on the admin dashboard feel instant with optimistic state before the API responds
