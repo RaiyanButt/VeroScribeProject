@@ -1,4 +1,4 @@
-# Medbook — Patient Booking System
+# VeroScribe project — Patient Booking System
 
 A full-stack appointment booking flow built with Next.js 14, featuring a patient-facing booking wizard and a physician admin dashboard.
 
